@@ -80,7 +80,7 @@ li {
   background: #295e5e;
 }
 .poster {
-  background: url("/assets/images/poster.jpg");
+  background: url("./assets/images/poster.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 800px;
