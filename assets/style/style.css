@@ -61,7 +61,7 @@ li {
 .poster {
   width: 1110px;
   height: 272px;
-  background: url("/TNW/assets/images/back.png");
+  background: url("../TNW/assets/images/back.png");
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 15px;
